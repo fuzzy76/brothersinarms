@@ -1,6 +1,10 @@
 ---
-layout: page
-#title: 
+layout: biapage
+title: Welcome to Brothers In Arms!
 ---
 
-Trond, Discord!
+We're a clan playing Call of Duty : United Offensive. We consist mostly (but not exclusively) of old farts from Norway.
+
+We are recruiting, so feel free to drop by our server (and forums) if you're interested!
+
+Our main game nights are wednesday.
