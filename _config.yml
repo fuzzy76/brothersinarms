@@ -32,6 +32,7 @@ plugins:
 
 # A list of the pages to display in the navigation bar
 header_pages:
+  - members
   - help
   - statistics
   - forums
@@ -44,3 +45,4 @@ exclude:
   - Gemfile.lock
   - node_modules
   - update_boostrap.sh
+
