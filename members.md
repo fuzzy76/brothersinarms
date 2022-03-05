@@ -39,6 +39,8 @@ title: Members
 |30           |Valdemar (Valdis)             |M           |       |NO    |    |
 |31           |Lekehra                       |M           |       |NO    |    |
 |32           |Badtux, Mondkalb              |M           |       |GER   |    |
+|40           |Emre                          |M           |       |NO    |    |
+|42           |Stef(f)an                     |M           |       |NO    |    |
 
 Names with lines through them are inactive members.
 
