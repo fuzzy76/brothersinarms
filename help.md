@@ -45,7 +45,7 @@ Once done, when you go in the game menu, it may not show the correct resolution 
 
 * If PunkBuster is not running, try running the game as administrator by right-clicking on the shortcut and select "Run as administrator"
 * If PunkBuster complains about files with "d3d" in their name being corrupt, reinstall [DirectX](http://www.microsoft.com/en-us/download/details.aspx?id=35).
-* If PunkBuster says you<re banned, contact us on Discord. But we only remove bans, we don't whitelist. If PunkBuster doesn't like your computer, neither do we.
+* If PunkBuster says you're banned, contact us on Discord. But we only remove bans, we don't whitelist. If PunkBuster doesn't like your computer, neither do we.
 
 Some other links:
 * https://answers.ea.com/t5/Battlefield-Hardline/Punkbuster-Guide/td-p/4390461
