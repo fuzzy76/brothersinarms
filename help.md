@@ -8,7 +8,7 @@ title: Help
 
 **Note**: Your installed game path is `C:\Program Files (x86)\Steam\steamapps\common\Call of Duty` if you installed via Steam or `C:\Program Files (x86)\Call of Duty` if you installed from CD.
 
-1. Install [Call of Duty and the expansion pack United Offensive](https://store.steampowered.com/sub/222/).</li>
+1. Install [Call of Duty and the expansion pack United Offensive](https://store.steampowered.com/sub/222/).
 2. Download [punkbuster definitions](http://www.callofdutyview.net/files/pb/cod_pb.zip), extract it and copy the pb folder over the existing pb folder in your game folder.
 3. Download [pbsvc.exe](http://www.evenbalance.com/downloads/pbsvc/pbsvc.exe), run it, start the punkbuster service and perform test.
 4. Start game as administrator (you will always have to do this) and enable downloads.
@@ -44,10 +44,10 @@ Once done, when you go in the game menu, it may not show the correct resolution 
 ## FAQ
 
 * If PunkBuster is not running, try running the game as administrator by right-clicking on the shortcut and select "Run as administrator"
-* If PunkBuster complains about files with "d3d" in their name being corrupt, reinstall DirectX from <a href="http://www.microsoft.com/en-us/download/details.aspx?id=35">http://www.microsoft.com/en-us/download/details.aspx?id=35</a>
+* If PunkBuster complains about files with "d3d" in their name being corrupt, reinstall [DirectX](http://www.microsoft.com/en-us/download/details.aspx?id=35).
 * If PunkBuster says you<re banned, contact us on Discord. But we only remove bans, we don't whitelist. If PunkBuster doesn't like your computer, neither do we.
 
 Some other links:
-* <a href="https://answers.ea.com/t5/Battlefield-Hardline/Punkbuster-Guide/td-p/4390461">https://answers.ea.com/t5/Battlefield-Hardline/Punkbuster-Guide/td-p/4390461</a>
-* <a href="http://www.funteamgermany.de/?path=download&contentid=21&catid=4&themeid=0">http://www.funteamgermany.de/?path=download&contentid=21&catid=4&themeid=0</a>
+* https://answers.ea.com/t5/Battlefield-Hardline/Punkbuster-Guide/td-p/4390461
+* http://www.funteamgermany.de/?path=download&contentid=21&catid=4&themeid=0
 
