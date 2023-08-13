@@ -41,6 +41,11 @@ title: Members
 |32           |Badtux, Mondkalb                |       |GER   |    |
 |40           |Emre, Wuze                      |       |NO    |    |
 |42           |Stef(f)an, ScrubbarN            |       |NO    |    |
+|45           |Emil, Sivvan                    |       |SE    |    |
+|46           |Peter, Bobbas                   |       |SE    |    |
+|47           |Viktor, Svesen                  |       |SE    |    |
+|48           |Patrik, Pathed                  |       |SE    |    |
+|49           |Apricot, Aprikosen              |       |NO    |    |
 
 Names with lines through them are inactive members.
 
