@@ -27,17 +27,17 @@ All of the following commands need to be changed in the file (they are already t
 For a 16:9 Aspect Ratio Resolution: (usually for widescreen TV)
 ```
 seta cg_fov 96.4183
-seta r_mode -1
-seta r_customheight 900
 seta r_customwidth 1440
+seta r_customheight 900
+seta r_mode -1
 ```
 
 For a 16:10 Aspect Ratio Resolution: (usually for widescreen pc monitor)
 ```
 seta cg_fov 90.3951
-seta r_mode -1
-seta r_customheight 900
 seta r_customwidth 1440
+seta r_customheight 900
+seta r_mode -1
 ```
 Once done, when you go in the game menu, it may not show the correct resolution in the options, but it will be in game. Do not change your resolution in the game. If you do, you will lose widescreen, and have to do this all over again.
 
