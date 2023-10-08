@@ -24,7 +24,7 @@ Downloads:
 Find and edit the following config file with notepad: uo\uoconfig_mp.cfg
 All of the following commands need to be changed in the file (they are already there but with different values - if cg_fov is missing, just add it). Obviously only one of 16:9 or 16:10 needs to be done, depending on your screen. Replace 1440 and 900 with your monitor resolution (1920 and 1200 for me).
 
-For a 16:9 Aspect Ratio Resolution: (usually for widescreen TV)</p>
+For a 16:9 Aspect Ratio Resolution: (usually for widescreen TV)
 ```
 seta cg_fov 96.4183
 seta r_mode -1
