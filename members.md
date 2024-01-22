@@ -39,6 +39,7 @@ title: Members
 |~~30~~       |~~Valdemar (Valdis)~~           |       |~~NO~~|    |
 |~~31~~       |~~Lekehra~~                     |       |~~NO~~|    |
 |32           |Badtux, Mondkalb                |       |GER   |    |
+|33           |Baronen, Fr0gge                 |       |SE    |    |
 |40           |Emre, Wuze                      |       |NO    |    |
 |42           |Stef(f)an, ScrubbarN            |       |NO    |    |
 |45           |Emil, Sivvan                    |       |SE    |    |
